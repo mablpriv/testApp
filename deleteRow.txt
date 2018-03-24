@@ -1,5 +1,9 @@
 /* 2018-03-22  mablo  Fil för att radera post i tabell... */
+/* 2018-03-22  mablo  Lagt till ny autentisierings mekansim... */
+/* 2018-03-24  mablo  Optimering av databas access... */
 
 test fil 1
 
 Jira ärende 11 Lagt till ny autentisierings mekansim...
+
+jira ärende 12 Optimering av databas access...
