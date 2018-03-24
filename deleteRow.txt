@@ -1,3 +1,5 @@
 /* 2018-03-22  mablo  Fil för att radera post i tabell... */
 
 test fil 1
+
+Lagt till en hotfix i verson 1.0 på grund av inloggnings problem... 
