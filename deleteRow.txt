@@ -5,6 +5,7 @@
 /* 2018-03-25  mablo  Support for large files... */
 /* 2018-03-25  mablo  Support for ssh... */
 /* 2018-03-25  mablo  Support for telnet... */
+/* 2018-03-25  mablo  Support for incremental change... */
 
 test fil 1 och New colors och Support for large files
 
@@ -16,4 +17,6 @@ jira ärende 13 Feature Support for large files...
 jira ärende 14 Feature New colors for button...
 jira ärende 15 Feature Support for ssh...
 jira ärende 16 Feature Support for telnet...
+GitHub issue #3 Support for incremental change
+
 
