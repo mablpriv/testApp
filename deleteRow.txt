@@ -1,5 +1,7 @@
 /* 2018-03-22  mablo  Fil för att radera post i tabell... */
-
+/* 2018-03-27  mablo  Ingen Auth available*/
 test fil 1
 
-Lagt till en hotfix i verson 1.0 på grund av inloggnings problem... 
+Lagt till en hotfix i verson 1.0 på grund av inloggnings problem...
+
+Lagt till en hotfix i verson 1.0 på grund Ingen Auth available...  
